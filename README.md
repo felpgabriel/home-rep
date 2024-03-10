@@ -1,8 +1,19 @@
-# cria-fc
-Projeto de TCC idealizado e confeccionado para apresentação da conclusão do curso de Desenvolvimento de Sistemas da instituição IFRS - Campus Canoas.
+#resumo
 
-O projeto tem o intuito de ser uma aplicação web para a marcação de jogos de futebol online.
-
-Foi desenvolvido em PHP (back-end da aplicação), junto ao uso de HTML, CSS e javascript para estilização, funcionamento e implementação das páginas relacionadas a ele.
-
-O projeto possui as funcionalidades de criação de perfis de usuário e login, criação de times de futebol, cadastro de quadras e criação e manipulação de partidas.
+Olá, seja bem-vindo ao meu repositório de códigos!
+Aqui pretendo demonstrar a qualidade do meu código com alguns projetos que eu realizei ou irei realizar no futuro.
+Fique à vontade para explorar nos arquivos!
+Utilizo para o meu desenvolvimento algumas linguagens como:
+- JavaScript
+- C#
+- Python
+- Java
+- Reacts.js
+- HTML
+- CSS
+- C++
+Entre outras.
+A minha ideia principal é que tudo que eu aprenda esteja nesse repositório.
+Além de códigos, serão encontrados documentos dos projetos que fazem parte da análise e da modelagem de telas, banco de dados, classes utilizadas, etc.
+Espero que goste, com qualquer dúvida, comentário ou proposta, contate-me em meu LinkedIn:
+https://www.linkedin.com/in/luiz-felipe-gabriel-dos-santos-81a1ba222/
