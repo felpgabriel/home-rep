@@ -4,7 +4,7 @@
 
 Hi! Welcome to my code Repository!
 
-This repository was created with the intention to show the projects that i've developed on the course of my studies and experiences as a developer. 
+This repository was created with the intention to show the projects that I've developed on the course of my studies and experiences as a developer. 
 The main objective is to present the way I structure my projects, organize my codes and the technologies that I use on a daily basis.
 
 Here you'll see from the littlest experiments to more complex projects, including not just the code, but also materials related to the development process, like documentation, data modelling, class structuration and canvases.
@@ -15,8 +15,8 @@ Some of the languages and technologies I'll use for the projects:
 
 - JavaScript
 - Node.js
-- Typescript
 - React.js
+- Typescript
 - HTML
 - CSS
 - Java
