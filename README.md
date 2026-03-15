@@ -32,6 +32,8 @@ A proposta deste repositório é centralizar tudo o que venho aprendendo e desen
 
 ## 📩 Contato
 
-Caso tenha alguma dúvida, sugestão ou proposta, fique à vontade para entrar em contato comigo pelo LinkedIn:
+Caso tenha alguma dúvida, sugestão ou proposta, fique à vontade para entrar em contato comigo pelo LinkedIn ou e-mail:
 
-🔗 https://www.linkedin.com/in/felpgabriel
+🔗 https://www.linkedin.com/in/felpgabriel  
+
+E-mail: [luizfelipegs_@hotmail.com](mailto:luizfelipegs_@hotmail.com)
