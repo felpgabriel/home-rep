@@ -19,9 +19,10 @@ Some of the languages and technologies I'll use for the projects:
 - React.js
 - HTML
 - CSS
-- RESTFul APIs
 - Java
+- RESTFul APIs
 - Python
+- Docker
 
 Beyond other tools and technologies present in my continuous learning.
 
@@ -34,4 +35,5 @@ The purpose of this repository is to centralize everything that I've been learni
 If you have any questions, suggestion or offer, feel free to contact me through LinkedIn or mail:
 
 🔗 https://www.linkedin.com/in/felpgabriel
-Mail: luizfelipegs_@hotmail.com
+
+Mail: [luizfelipegs_@hotmail.com](mailto:luizfelipegs_@hotmail.com)
