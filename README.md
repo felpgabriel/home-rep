@@ -16,11 +16,11 @@ Algumas das linguagens e tecnologias que utilizo nos projetos:
 - JavaScript
 - Node.js
 - React.js
-- Typescript
+- TypeScript
 - HTML
 - CSS
 - Java
-- APIs RESTFul
+- APIs RESTful
 - Python
 - Docker
 
