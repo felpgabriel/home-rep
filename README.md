@@ -1,5 +1,7 @@
 # 👨‍💻 Repositório de Projetos
 
+<strong>🇧🇷 Português</strong> | [🇺🇸 English](README.en.md)
+
 Olá! Seja bem-vindo ao meu repositório de códigos.
 
 Este espaço foi criado para reunir projetos que desenvolvi ao longo dos meus estudos e experiências como desenvolvedor. 
